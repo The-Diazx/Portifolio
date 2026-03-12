@@ -19,6 +19,9 @@ Atualmente, estou aprimorando conhecimentos em **React**, **APIs RESTful** e **v
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla)**
+- **C**
+- **Java**
+- **Python**
 - **Responsividade**
 - **Tema Claro/Escuro**
 - **Git & GitHub**
