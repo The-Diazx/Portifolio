@@ -27,4 +27,4 @@ Atualmente, estou aprimorando conhecimentos em **React**, **APIs RESTful** e **v
 
 ## 🧩 Link do Portifolio 
 
-https://the-diazx.github.io/Portifolio2.0/
+https://the-diazx.github.io/Portifolio/
